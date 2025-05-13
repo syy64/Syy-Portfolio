@@ -48,5 +48,5 @@ I’m a data analyst and entrepreneur with experience managing my wig brand, Syl
 
 ## Contact  
 **Email:** onuorahsylvia@email.com  
-**LinkedIn:** [Your LinkedIn Link]  
-**GitHub:** [Your GitHub Profile]
+**LinkedIn:** www.linkedin.com/in/sylviaonuorah  
+**GitHub:** https://github.com/syy64
