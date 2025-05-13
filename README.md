@@ -9,7 +9,7 @@ Welcome to my portfolio! I'm passionate about uncovering insights through data. 
 ###  House Price Prediction
 **Tools Used:** Python, Pandas, Scikit-learn, Matplotlib  
 Built a regression model to predict housing prices based on features like number of rooms, location, and square footage.  
-[🔗 View Project File](./housepriceprediction.ipynb)
+[🔗 View Project File](./housepricepredictionn.ipynb)
 
 ---
 
