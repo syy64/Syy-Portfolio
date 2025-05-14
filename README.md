@@ -36,7 +36,7 @@ Built a regression model to predict housing prices based on features like number
 
 ## About Me
 
-I’m a data analyst and entrepreneur with experience managing my wig brand, SyluxeHair, and analyzing business trends. I recently completed a Data Science training and hold a BSc in Economics.  
+I’m a data analyst and entrepreneur with experience managing my wig brand, SyluxeHair, and analyzing business trends. I completed a Data Science training and hold a BSc in Economics.  
 
 ---
 
